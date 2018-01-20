@@ -6,7 +6,7 @@
         "activityBar.background": "#20252C",
         "activityBar.foreground": "#666",
         "activityBarBadge.background":"#567",
-        "badge.background": "#567",
+        "badge.background": "#20252C",
         "statusBar.background" : "#20252C",
         "statusBar.noFolderBackground" : "#222225",
         "statusBar.debuggingBackground": "#511f1f",
@@ -18,6 +18,8 @@
     },
     "workbench.colorTheme": "Atom One Dark",
     "editor.tabSize": 2,
+    "editor.scrollBeyondLastLine": false,
     "workbench.statusBar.visible": true,
-    "workbench.activityBar.visible": true
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false
 }
