@@ -1,0 +1,20 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#20252C",
+        "activityBar.foreground": "#666",
+        "statusBar.background" : "#20252C",
+        "statusBar.noFolderBackground" : "#222225",
+        "statusBar.debuggingBackground": "#511f1f",
+        "gitDecoration.ignoredResourceForeground": "#666",
+        "list.inactiveFocusForeground": "#444",
+        "sideBar.background": "#20252C",
+        "foreground": "#999",
+    },
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.tabSize": 2,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true
+}
