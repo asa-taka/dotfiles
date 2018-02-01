@@ -5,10 +5,10 @@
     "workbench.colorCustomizations": {
         "activityBar.background": "#20252C",
         "activityBar.foreground": "#626C83",
-        "activityBarBadge.background":"#567",
+        "activityBarBadge.background": "#567",
         "badge.background": "#20252C",
-        "statusBar.background" : "#20252C",
-        "statusBar.noFolderBackground" : "#222225",
+        "statusBar.background": "#20252C",
+        "statusBar.noFolderBackground": "#222225",
         "statusBar.debuggingBackground": "#511f1f",
         "gitDecoration.ignoredResourceForeground": "#5B6270",
         "list.inactiveFocusForeground": "#444",
@@ -31,5 +31,11 @@
     "editor.minimap.enabled": false,
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "explorer.autoReveal": false,
+    "explorer.decorations.badges": false
 }
