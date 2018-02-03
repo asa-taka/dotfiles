@@ -37,5 +37,8 @@
     "git.enableSmartCommit": true,
     "git.autofetch": true,
     "explorer.autoReveal": false,
-    "explorer.decorations.badges": false
+    "explorer.decorations.badges": false,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
 }
